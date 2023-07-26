@@ -1,6 +1,6 @@
 # Built and Deployed a Full Stack MERN Social Media App With CRUD and Auth.
 
-<b>--> Tools & Technologies Used</b> - ReactJS, NodeJS, ExpressJS and MongoDB. <br>
+--> #Tools & Technologies Used - ReactJS, NodeJS, ExpressJS and MongoDB. <br>
 --> Designed a clean and visually appealing user interface, focusing on ease of use and intuitive navigation. <br>
 --> Users could create, edit, delete, and publish posts with optional image attachments.<br>
 --> Implemented a secure registration page with complete validation. <br>
