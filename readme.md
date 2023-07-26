@@ -6,4 +6,4 @@
 --> Implemented a secure registration page with complete validation.
 --> Provided a comprehensive feed to view and engage with posts from other users enabling users to like, dislike, and comment on posts.
 
-Developed by [@imdevesh01](https://github.com/imdevesh01)
+Developed by [@imdevesh01](https://github.com/imdevesh01) & [@princeahlawat16](https://github.com/princeahlawat16)
